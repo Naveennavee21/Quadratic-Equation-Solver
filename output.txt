@@ -1,0 +1,4 @@
+Enter the coefficients of the quadratic equation (a, b, c):
+2 5 -3
+Root 1: 0.5
+Root 2: -3.0
